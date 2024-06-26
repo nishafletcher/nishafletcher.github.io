@@ -1,11 +1,3 @@
-# Header
+#Bio
 
-This is regular text
-
-## Smaller Header
-
-This is regular text
-
-## Even smaller Header
-
-This is regular text
+I am an undergraduate student studying Mathematics at [Southern Utah University] (https://www.suu.edu/math/). 
