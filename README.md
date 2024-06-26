@@ -9,5 +9,5 @@ Research interests.  `typewriter font`
 
 Heres a picture of me:
 
-![alt text](picture.link)
+![alt text](Headshot.jpg)
 
