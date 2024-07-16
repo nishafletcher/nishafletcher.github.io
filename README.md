@@ -13,7 +13,7 @@
             <p><a href="info.txt">Here</a> is some more about me.</p>
         </div>
     </div>
-    <p>Research interests: I am interested in learning about the fundamental properties of the universe. From the largest galaxies to the smallest particles, everything is governend by the same laws and I want to learn about those laws.  <span style="font-family: 'Courier New', Courier, monospace;">typewriter font</span></p>
+    <p>Research interests: I am interested in learning about the fundamental properties of the universe. From the largest galaxies to the smallest particles, everything is governend by the same laws and I want to learn about those laws.  </p>
     <h2>Presentations</h2>
 </body>
 </html>
