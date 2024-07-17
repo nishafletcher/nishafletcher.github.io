@@ -14,6 +14,9 @@
         </div>
     </div>
     <h2>Publications</h2>
+    <p><i>Journal of Double Star Observations</i></p>
+    <p>Anderson et. al.  (2024). Observations of 42 Double Stars Near Messier 35. The Journal of Double Star Observations,         20(2), 125–140. </p>
+    <p><i>Journal of Chemical Education</i></p>
     <h2>Presentations</h2>
     
 </body>
