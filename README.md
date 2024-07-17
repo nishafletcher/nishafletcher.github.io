@@ -10,7 +10,7 @@
         <img src="Headshot.jpg" alt="Nisha Fletcher" style="max-width: 200px; height: auto; margin-right: 20px;">
         <div>
             <p>Hi! My name is Nisha Fletcher and I am currently an undergraduate student studying Mathematics at <a         href="https://www.suu.edu/math/">Southern Utah University</a>.</p>
-            <p>Research interests: I am interested in learning about the fundamental properties of the universe. From the                   largest galaxies to the smallest particles, everything is governend by the same laws and I want to learn                     about those laws.  </p>
+            <p>Research interests: I am interested in using advanced computational methods to learn about the                              fundamental principles governing the universe. I am fascinated by the application of cutting-edge simulations                and theoretical models to understand the intricate behaviors and interactions of particles and cosmic                        phenomena on both micro and macro scales. </p>
         </div>
     </div>
     <h2>Publications</h2>
